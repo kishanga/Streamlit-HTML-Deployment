@@ -10,5 +10,6 @@ components.html(
     <div> Project 1 - <a href="http://www.github.com" target="_blank">GitHub Link</a> </div>
     <div> Project 2 - <a href="http://www.github.com" target="_blank">GitHub Link</a> </div>
     """,
+    width=1000,
     height=600,
 )
